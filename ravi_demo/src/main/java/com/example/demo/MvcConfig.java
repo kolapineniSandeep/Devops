@@ -10,5 +10,5 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  * 
  * @Override public void addResourceHandlers(ResourceHandlerRegistry registry) {
  * registry.addResourceHandler("/**")
- * .addResourceLocations("resources/static/"); } }
+ * .addResourceLocations("resources/static/"); }  }
  */
